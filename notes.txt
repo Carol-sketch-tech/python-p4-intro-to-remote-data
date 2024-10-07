@@ -1,0 +1,12 @@
+objectives 
+    Key vocabularies 
+        1. JSON - json is an open standard file format and data interchange format, that uses human readable text to store and transmit data objectives cin
+        consist of attribute value pairs and arrays.
+        2. Endpoint - and enpoint is one end of a communication channel
+        3. API is the acronym for appliction programming interface which is a software intermeddiary that allows two 
+        applicatons to talk to each other.
+
+1. what is an API 
+2. How can APIs be used 
+3. How do you fine the API Endpoint
+4. How do you send a request to an API 
